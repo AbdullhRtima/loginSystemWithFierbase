@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522668121712",
+    "firebase_url": "https://loginsystem-53438.firebaseio.com",
+    "project_id": "loginsystem-53438",
+    "storage_bucket": "loginsystem-53438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522668121712:android:b083aea5c1bcd36f",
+        "android_client_info": {
+          "package_name": "com.goldencodertima.software_project_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522668121712-5trnppqljmcg7pk2ckkgkiqt9pke9qko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goldencodertima.software_project_demo",
+            "certificate_hash": "3f7f29441c25fd76520d7f5ca7dee49358fc31ff"
+          }
+        },
+        {
+          "client_id": "522668121712-loj560ead3rb47157qao0nd1qun453n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUu4Xkyk-zFqAuePOMdJ8btTXwiWFxJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522668121712-loj560ead3rb47157qao0nd1qun453n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
